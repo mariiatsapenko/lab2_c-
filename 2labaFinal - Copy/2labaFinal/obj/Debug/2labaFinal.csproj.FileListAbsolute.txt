@@ -1,0 +1,23 @@
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\bin\Debug\2labaFinal.exe.config
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\bin\Debug\2labaFinal.exe
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\bin\Debug\2labaFinal.pdb
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\obj\Debug\2labaFinal.csproj.AssemblyReference.cache
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\obj\Debug\_2labaFinal.Form1.resources
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\obj\Debug\_2labaFinal.Properties.Resources.resources
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\obj\Debug\2labaFinal.csproj.GenerateResource.cache
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\obj\Debug\2labaFinal.csproj.CoreCompileInputs.cache
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\obj\Debug\2labaFinal.exe
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\obj\Debug\2labaFinal.pdb
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\obj\Debug\_2labaFinal.Menu.resources
+C:\Users\lyuben1337\source\repos\2labaFinal\2labaFinal\obj\Debug\_2labaFinal.AddAutomat.resources
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\obj\Debug\2labaFinal.csproj.AssemblyReference.cache
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\obj\Debug\_2labaFinal.CreateAutomat.resources
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\obj\Debug\_2labaFinal.Form1.resources
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\obj\Debug\_2labaFinal.Properties.Resources.resources
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\obj\Debug\2labaFinal.csproj.GenerateResource.cache
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\obj\Debug\2labaFinal.csproj.CoreCompileInputs.cache
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\obj\Debug\2labaFinal.exe
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\obj\Debug\2labaFinal.pdb
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\bin\Debug\2labaFinal.exe.config
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\bin\Debug\2labaFinal.exe
+C:\Users\lyuben1337\source\repos\2labaFinal - Copy\2labaFinal\bin\Debug\2labaFinal.pdb
